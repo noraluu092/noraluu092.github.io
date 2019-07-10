@@ -1,0 +1,28 @@
+
+
+#badminton{
+  width: 150px;
+}
+
+#squidward{
+  width:150px;
+}
+
+.header_font{
+  color: lavender;
+  font-family: 'Gaegu'
+}
+
+.blue_font{
+  color: mediumslateblue;
+  font-family: 'Gamja Flower';
+}
+
+.red_font{
+  color: mediumslateblue;
+  font-family: 'Gamja Flower';
+}
+
+body {
+  background-color: lavender
+}
